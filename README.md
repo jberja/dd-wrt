@@ -2,18 +2,18 @@
 My home DD-WRT configuration for privacy and security. Documenting so I can remember my preferred settings whenever I update/reset the router.
 
 ## Current Router
-- [Linksys WRT3200ACM](https://www.linksys.com/us/support-product?pid=01t340000046sOsAAI).
+- Linksys WRT3200ACM: https://www.linksys.com/us/support-product?pid=01t340000046sOsAAI
 
 ## Current DD-WRT Build
-- [v3.0-r47911 std (12/23/21)](https://forum.dd-wrt.com/phpBB2/viewtopic.php?t=331086).
+- v3.0-r47911 std (12/23/21): https://forum.dd-wrt.com/phpBB2/viewtopic.php?t=331086
 
-## 3rd-Party Services
-- [ProtonVPN](https://protonvpn.com/).
+## VPN Service
+- ProtonVPN: https://protonvpn.com/
 
 ## Additional Reference Materials
-- [How to set up ProtonVPN on DD-WRT routers](https://protonvpn.com/support/vpn-router-ddwrt/).
-- [How to download ProtonVPN OpenVPN configuration files](https://protonvpn.com/support/vpn-config-download/).
-- [What is IKEv2/IPSec?](https://protonvpn.com/support/what-is-ikev2-ipsec/).
+- How to set up ProtonVPN on DD-WRT routers doc: https://protonvpn.com/support/vpn-router-ddwrt/
+- How to download ProtonVPN OpenVPN configuration files doc: https://protonvpn.com/support/vpn-config-download/
+- What is IKEv2/IPSec? doc: https://protonvpn.com/support/what-is-ikev2-ipsec/
 
 # Setup VPN
 Settings for configuring ProtonVPN.
